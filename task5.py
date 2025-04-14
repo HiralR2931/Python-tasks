@@ -1,8 +1,10 @@
-#sum of 1 to 5 using while loop
-sum = 0 
-i = 1
-while i <= 5:
-    sum = sum + i       
-    i = i + 1
-print("Sum of integers from 1 to 5 is: ", sum)
-print("\n")
+#factorial of number
+
+def factorial(n):
+    if n < 2:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+a=int(input("enter a number: "))
+print("Factorial of",a,"is",factorial(a))  

@@ -6,7 +6,7 @@ Task 1: Perform Basic Mathematical Operations
       o	Subtraction
       o	Multiplication
       o	Division
-  3.  Displays the results of each operation on the screen.
+    3.  Displays the results of each operation on the screen.
 
 Task 2: Create a Personalized Greeting
   Problem Statement: Write a Python program that:
@@ -25,3 +25,8 @@ Task 4: Sum of Integers from 1 to 50 Using a Loop
     1.   Uses a for loop to iterate over numbers from 1 to 50.
     2.   Calculates the sum of all integers in this range.
     3.   Displays the final sum.
+
+Task 5:Write a Python program that:
+  1.Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
+  2.Returns the calculated factorial.
+  3.Calls the function with a sample number and prints the output.
